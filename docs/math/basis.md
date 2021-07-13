@@ -49,3 +49,5 @@ inline void insert(long long x) {
 [HDU 3949 XOR](https://vjudge.net/problem/HDU-3949)
 
 [Luogu P4151\[WC2011\]最大 XOR 和路径](https://www.luogu.com.cn/problem/P4151)
+
+[Codeforces 845G Shortest Path Problem?](https://codeforces.com/contest/845/problem/G)
